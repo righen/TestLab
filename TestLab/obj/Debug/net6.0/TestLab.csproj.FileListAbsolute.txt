@@ -1,0 +1,15 @@
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\bin\Debug\net6.0\TestLab.exe
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\bin\Debug\net6.0\TestLab.deps.json
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\bin\Debug\net6.0\TestLab.runtimeconfig.json
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\bin\Debug\net6.0\TestLab.dll
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\bin\Debug\net6.0\TestLab.pdb
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\obj\Debug\net6.0\TestLab.csproj.AssemblyReference.cache
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\obj\Debug\net6.0\TestLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\obj\Debug\net6.0\TestLab.AssemblyInfoInputs.cache
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\obj\Debug\net6.0\TestLab.AssemblyInfo.cs
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\obj\Debug\net6.0\TestLab.csproj.CoreCompileInputs.cache
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\obj\Debug\net6.0\TestLab.dll
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\obj\Debug\net6.0\refint\TestLab.dll
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\obj\Debug\net6.0\TestLab.pdb
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\obj\Debug\net6.0\TestLab.genruntimeconfig.cache
+C:\Users\RighenSawmynaden\Documents\Github\TestLab\TestLab\TestLab\obj\Debug\net6.0\ref\TestLab.dll
