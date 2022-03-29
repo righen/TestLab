@@ -11,6 +11,9 @@ public class Shape
 
     public string GetName()
     {
+        if (string.IsNullOrWhiteSpace(_name))
+            throw new ArgumentNullException();
+        
         return _name;
     }
 }
