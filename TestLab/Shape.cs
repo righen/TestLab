@@ -8,4 +8,9 @@ public class Shape
     {
         _name = name;
     }
+
+    public string GetName()
+    {
+        return _name;
+    }
 }
